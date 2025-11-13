@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Asc8Ll9aWWlfyk2MmRKMBuP8INFkaW9zG0Y9K3to/ykOjudrT5n1oYxkDBWr4hjpP1xI/9fODK+Svw8wAd7g3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raghav\\source\\repos\\LEVEL-4\\Programming With Declarative Languages\\GradesProject\\GradesProject\\GradesProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raghav\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Raghav\\.nuget\\packages\\newtonsoft.json.schema\\4.0.1\\newtonsoft.json.schema.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

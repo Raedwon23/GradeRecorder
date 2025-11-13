@@ -1,0 +1,40 @@
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\schema.json
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\tester.json
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.exe
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.deps.json
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.runtimeconfig.json
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.dll
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.pdb
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\bin\Debug\net8.0\Newtonsoft.Json.Schema.dll
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.csproj.AssemblyReference.cache
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.AssemblyInfoInputs.cache
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.AssemblyInfo.cs
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.csproj.CopyComplete
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.dll
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\refint\GradesProject.dll
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.pdb
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.genruntimeconfig.cache
+C:\Users\Raghav\source\repos\GradesProject\GradesProject\obj\Debug\net8.0\ref\GradesProject.dll
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\tester.json
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\schema.json
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.exe
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.deps.json
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.runtimeconfig.json
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.dll
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\GradesProject.pdb
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\bin\Debug\net8.0\Newtonsoft.Json.Schema.dll
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.csproj.AssemblyReference.cache
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.AssemblyInfoInputs.cache
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.AssemblyInfo.cs
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.csproj.CoreCompileInputs.cache
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.csproj.CopyComplete
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.dll
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\refint\GradesProject.dll
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.pdb
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\GradesProject.genruntimeconfig.cache
+C:\Users\Raghav\source\repos\LEVEL-4\Programming With Declarative Languages\GradesProject\GradesProject\obj\Debug\net8.0\ref\GradesProject.dll

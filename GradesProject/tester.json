@@ -1,0 +1,23 @@
+[
+  {
+    "Code": "INFO-3138",
+    "Evaluations": [
+      { "Description": "Assignment 1", "Weight": 20, "OutOf": 100, "EarnedMarks": 85 },
+      { "Description": "Midterm", "Weight": 30, "OutOf": 100, "EarnedMarks": 70 }
+    ]
+  },
+  {
+    "Code": "MATH-1010",
+    "Evaluations": [
+      { "Description": "Quiz 1", "Weight": 10, "OutOf": 20, "EarnedMarks": 18 },
+      { "Description": "Final Exam", "Weight": 40, "OutOf": 100, "EarnedMarks": null }
+    ]
+  },
+  {
+    "Code": "PHYS-2020",
+    "Evaluations": [
+      { "Description": "Lab Report", "Weight": 25, "OutOf": 50, "EarnedMarks": 40 },
+      { "Description": "Presentation", "Weight": 15, "OutOf": 30, "EarnedMarks": 28 }
+    ]
+  }
+]

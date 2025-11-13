@@ -1,0 +1,68 @@
+[
+  {
+    "Code": "INFO-3138",
+    "Evaluations": [
+      {
+        "Description": "Assignment 1",
+        "OutOf": 100,
+        "Weight": 20.0,
+        "EarnedMarks": 85.0
+      },
+      {
+        "Description": "Midterm",
+        "OutOf": 100,
+        "Weight": 30.0,
+        "EarnedMarks": 70.0
+      }
+    ]
+  },
+  {
+    "Code": "INFO-3111",
+    "Evaluations": [
+      {
+        "Description": "ProjectMain",
+        "OutOf": 100,
+        "Weight": 20.0,
+        "EarnedMarks": 100.0
+      },
+      {
+        "Description": "Final Exam",
+        "OutOf": 100,
+        "Weight": 50.0,
+        "EarnedMarks": 80.0
+      }
+    ]
+  },
+  {
+    "Code": "INFO-3136",
+    "Evaluations": [
+      {
+        "Description": "Lab Test 1",
+        "OutOf": 50,
+        "Weight": 15.0,
+        "EarnedMarks": 40.0
+      },
+      {
+        "Description": "Quiz 1",
+        "OutOf": 20,
+        "Weight": 10.0,
+        "EarnedMarks": 18.0
+      }
+    ]
+  },
+  {
+    "Code": "INFO-0000",
+    "Evaluations": [
+      {
+        "Description": "Test ",
+        "OutOf": 10,
+        "Weight": 50.0,
+        "EarnedMarks": 5.0
+      }
+    ]
+  },
+  {
+    "Code": "INFO-1092",
+    "Evaluations": []
+  }
+]

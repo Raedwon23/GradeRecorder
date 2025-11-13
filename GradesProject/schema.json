@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Course",
+  "type": "object",
+  "properties": {
+    "Code": {
+      "type": "string",
+      "pattern": "^[A-Z]{4}-\\d{4}$"
+    },
+    "Evaluations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Description": { "type": "string" },
+          "Weight": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "OutOf": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "EarnedMarks": {
+            "anyOf": [
+              {
+                "type": "number",
+                "minimum": 0
+              },
+              { "type": "null" }
+            ]
+          }
+        },
+        "required": [ "Description", "Weight", "OutOf", "EarnedMarks" ]
+      }
+    }
+  },
+  "required": [ "Code" ]
+}
